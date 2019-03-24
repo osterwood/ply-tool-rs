@@ -1,0 +1,10 @@
+[package]
+name = "ply-tool-rs"
+version = "0.1.0"
+authors = ["Chris Osterwood <osterwood@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+argparse = "0.2.2"
+image = "*"
+rand = "0.6"
